@@ -10,7 +10,7 @@ from tg.database.models import User
 from sqlalchemy import select
 from dotenv import load_dotenv
 
-from tg.keyboards import main, webapp
+from tg.keyboards import main
 
 
 
